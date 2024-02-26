@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lu5216
-- 👀 I’m interested in : java
-- 🌱 I’m currently learning : java
+- 👀 I’m interested in : java, python
+- 🌱 I’m currently learning : java, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 2890481787@qq.com
 
